@@ -3,7 +3,9 @@
     android:id="@+id/list_item_forecast_textview"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:gravity="center|clip_vertical"
-    android:text="today- sunny- 40/25">
+    android:text="today- monsoon- 40/25"
+    android:textSize="20dp"
+    android:textAlignment="gravity"
+    android:gravity="clip_vertical|left|fill_vertical">
 
 </TextView>
